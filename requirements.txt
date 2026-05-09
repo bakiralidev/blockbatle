@@ -1,0 +1,7 @@
+Node.js (v18+)
+Next.js (v15+)
+Socket.io (v4+)
+Three.js (Fiber/Drei)
+Prisma ORM
+PostgreSQL (Database)
+TailwindCSS (Styling)
