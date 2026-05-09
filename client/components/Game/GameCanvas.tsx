@@ -92,8 +92,8 @@ export default function GameCanvas() {
       </div>
 
       <Canvas 
-        shadows 
-        gl={{ antialias: true, shadowMapType: THREE.PCFShadowMap }}
+        shadows
+        gl={{ antialias: true }}
         camera={{ position: [0, 5, 10], fov: 75 }}
       >
         <Sky sunPosition={[100, 20, 100]} />
